@@ -9,6 +9,9 @@ venv/
 .venv/
 .env
 
+# API token caches
+.cache
+
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints
