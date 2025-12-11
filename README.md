@@ -1,37 +1,48 @@
-# RothBot: Data Analysis
+# Footwork
 
-**Month 1 of building an AI that generates Van Halen songs**
+**Learning AI engineering through music. Digital meets analog.**
 
-## Overview
+## The Vision
 
-Analyzing 50 years of Van Halen's musical catalog to understand:
+Building two AI systems that understand complementary musical energies:
+- **Digital Bot** (Yang): Van Halen-style hard rock
+- **Analog Bot** (Yin): Diana Krall/Michael Franks smooth jazz
 
-- Lyrical patterns and themes
-- Musical characteristics (tempo, key, energy)
-- Evolution across different eras
-- What makes Van Halen's sound unique
+Then making them cover each other's songs.
+
+The repository documents the journey from discrete steps (commits) 
+to continuous flow (mastery). The footwork between the samples is 
+where the learning lives.
+
+## Month 1: Understanding the Poles
+
+Analyzing two ice cream songs:
+- "Ice Cream Man" (Van Halen) - analog, flowing, continuous
+- "Popsicle Toes" (Michael Franks/Diana Krall) - digital, discrete, frozen
 
 ## Current Phase
-
 Data collection and exploratory analysis
 
 ## Tech Stack
-
 - Python 3.10+
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Jupyter Notebooks
 
 ## Progress
-
-- [x] Project setup
-- [ ] Data collection
-- [ ] Initial EDA
+- [x] Repository created
+- [ ] Collect anchor songs (Ice Cream Man + Popsicle Toes)
+- [ ] Initial comparative analysis
 - [ ] Lyric analysis
-- [ ] Musical feature analysis
-- [ ] Blog post writeup
+- [ ] Musical feature extraction
+- [ ] First blog post
 
-## Part of RothBot Series
+## The Journey
 
-This is Month 1 of a 6-month journey building a multimodal AI system.
-See the full roadmap: [link to your roadmap]
+This is a 6-month progression from Python basics to production AI systems.
+Each commit is a discrete step. The learning between commits is the footwork.
+
+**Part of Dances with Infrastructure series**
+
+---
+*The commits are discrete. The learning is continuous.*
