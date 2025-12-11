@@ -20,6 +20,12 @@ venv/
 data/*.csv
 data/*.json
 data/*.mp3
+data/lyrics/*.txt
+data/lyrics/*.json
+
+# Exceptions - keep source of truth files tracked
+!data/van_halen_discography.csv
+!data/van_halen_discography_original.csv
 
 # Keep directory structure
 !data/.gitkeep
